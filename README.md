@@ -52,7 +52,8 @@
 > PrettyCMD::AsciiArt::showAsciiArt("angel");
 > ```
 > <br>
-> This will display an **Angel Ascii Art**;
+> This will display an Angel Ascii Art
+> <br>
 > [!] Feel free to add more ascii arts by putting them into ready ascii folder as .txt file
 
 
