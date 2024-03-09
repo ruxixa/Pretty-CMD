@@ -64,7 +64,6 @@ void consoleExamples() {
 }
 
 int main() {
-    stop(); stop();
     colorExamples();
     effectsExamples();
     asciiExamples();
